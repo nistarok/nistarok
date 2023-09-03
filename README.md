@@ -1,4 +1,4 @@
-### Hi! I am Udo Jr 🇧🇷
+### Hi! I am Udo Jr
 I'm a brazilian developer currently working at <a href="https://tiflux.com" target="_blank">Tiflux</a>
 
 
