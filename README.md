@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi! I am Udo Jr 🇧🇷
+I'm a brazilian developer currently working at <a href="https://tiflux.com" target="_blank">Tiflux</a>
 
-<!--
-**nistarok/nistarok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Working with:**
+- Ruby on Rails
+- NodeJS
+- ReactJS
+- TypeScript
+- Redis
+- PostgreSQL
+- Kafka
+- Elasticsearch
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I also worked with:**
+- Python
+- Angularjs
+- JQuery
+- Electron
+- MongoDB
+- MariaDB
+- SQLite
+
+[![Twitter](twitter.png)](https://twitter.com/udoschjr)
+[![Linkedin](linkedin.png)](https://www.linkedin.com/in/udo-schmidt-junior-b4894689/)
+[![Youtube](youtube.png)](https://www.youtube.com/@programanostrilhos5916)
